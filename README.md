@@ -1,4 +1,4 @@
 first-repo
 ==========
 
-Testing purpose!
+My First Repository on GitHub.
